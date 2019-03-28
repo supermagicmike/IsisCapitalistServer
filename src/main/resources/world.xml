@@ -60,7 +60,7 @@ and open the template in the editor.
             </palliers>
         </product>
         <product>
-            <id>1</id>
+            <id>2</id>
             <name>Kush Sandwich</name>
             <logo>KushSandwich.jpg</logo>
             <cout>5</cout>
@@ -101,7 +101,7 @@ and open the template in the editor.
             </palliers>
         </product>
         <product>
-            <id>2</id>
+            <id>3</id>
             <name>Purple Burger</name>
             <logo>PurpleBurger.jpg</logo>
             <cout>10</cout>
@@ -142,7 +142,7 @@ and open the template in the editor.
             </palliers>
         </product>
         <product>
-            <id>3</id>
+            <id>4</id>
             <name>Nepal Kebab</name>
             <logo>KebabNepal.jpeg</logo>
             <cout>15</cout>
@@ -194,7 +194,7 @@ and open the template in the editor.
                     <name>SP</name>
                     <logo>spb.png</logo>
                     <seuil>9</seuil>
-                    <idcible>2</idcible>
+                    <idcible>1</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -212,7 +212,7 @@ and open the template in the editor.
                     <name>NATESHOW</name>
                     <logo>nateshow.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>2</idcible>
+                    <idcible>3</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -221,7 +221,7 @@ and open the template in the editor.
                     <name>L'APPACHE HELICOPTA</name>
                     <logo>apache.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>2</idcible>
+                    <idcible>4</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -230,7 +230,16 @@ and open the template in the editor.
                     <name>YANNOUZER</name>
                     <logo>yannou.png</logo>
                     <seuil>50</seuil>
-                    <idcible>2</idcible>
+                    <idcible>5</idcible>
+                    <ratio>2.0</ratio>
+                    <typeratio>gain</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+                <pallier>
+                    <name>CLEMINOU</name>
+                    <logo>yannou.png</logo>
+                    <seuil>50</seuil>
+                    <idcible>6</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
