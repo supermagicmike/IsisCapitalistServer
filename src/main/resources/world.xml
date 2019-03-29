@@ -20,11 +20,11 @@ and open the template in the editor.
     <products>
         <product>
             <id>1</id>
-            <name>Haze CLub Sandwich</name>
+            <name>Haze Sandwich</name>
             <logo>HazeCLubSandwich.jpg</logo>
             <cout>1</cout>
             <croissance>1.05</croissance>
-            <revenu>2</revenu>
+            <revenu>100000</revenu>
             <vitesse>40</vitesse>
             <quantite>1</quantite>
             <timeleft>0</timeleft>
@@ -102,6 +102,47 @@ and open the template in the editor.
         </product>
         <product>
             <id>3</id>
+            <name>OG Wrap</name>
+            <logo>OGWrap.jpg</logo>
+            <cout>8</cout>
+            <croissance>1.08</croissance>
+            <revenu>9</revenu>
+            <vitesse>1</vitesse>
+            <quantite>0</quantite>
+            <timeleft>0</timeleft>
+            <managerUnlocked>false</managerUnlocked>
+            <palliers>
+                <pallier>
+                    <name>Super_OGWrap</name>
+                    <logo>SOW.jpg</logo>
+                    <seuil>50</seuil>
+                    <idcible>1</idcible>
+                    <ratio>2.0</ratio>
+                    <typeratio>gain</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+                <pallier>
+                    <name>Mega_OGWrap</name>
+                    <logo>MOW.jpg</logo>
+                    <seuil>100</seuil>
+                    <idcible>1</idcible>
+                    <ratio>3.0</ratio>
+                    <typeratio>vitesse</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+                <pallier>
+                    <name>Giga_OGWrap</name>
+                    <logo>GOW.jpg</logo>
+                    <seuil>200</seuil>
+                    <idcible>1</idcible>
+                    <ratio>4.0</ratio>
+                    <typeratio>gain</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+            </palliers>
+        </product>
+        <product>
+            <id>4</id>
             <name>Purple Burger</name>
             <logo>PurpleBurger.jpg</logo>
             <cout>10</cout>
@@ -142,7 +183,7 @@ and open the template in the editor.
             </palliers>
         </product>
         <product>
-            <id>4</id>
+            <id>5</id>
             <name>Nepal Kebab</name>
             <logo>KebabNepal.jpeg</logo>
             <cout>15</cout>
@@ -182,6 +223,47 @@ and open the template in the editor.
                 </pallier>
             </palliers>
         </product>
+        <product>
+            <id>6</id>
+            <name>Blueberry Tacos</name>
+            <logo>blueberryTacos.jpg</logo>
+            <cout>50</cout>
+            <croissance>1.1</croissance>
+            <revenu>10000</revenu>
+            <vitesse>30</vitesse>
+            <quantite>0</quantite>
+            <timeleft>0</timeleft>
+            <managerUnlocked>false</managerUnlocked>
+            <palliers>
+                <pallier>
+                    <name>Super_BlueberryTacos</name>
+                    <logo>SBT.jpg</logo>
+                    <seuil>50</seuil>
+                    <idcible>2</idcible>
+                    <ratio>2.0</ratio>
+                    <typeratio>gain</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+                <pallier>
+                    <name>Mega_BlueberryTacos</name>
+                    <logo>MBT.jpg</logo>
+                    <seuil>100</seuil>
+                    <idcible>2</idcible>
+                    <ratio>3.0</ratio>
+                    <typeratio>vitesse</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+                <pallier>
+                    <name>Giga_BlueberryTacos</name>
+                    <logo>GBT.jpg</logo>
+                    <seuil>200</seuil>
+                    <idcible>2</idcible>
+                    <ratio>4.0</ratio>
+                    <typeratio>gain</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+            </palliers>
+        </product>
     </products>
     <allunlocks>
     </allunlocks>
@@ -194,7 +276,7 @@ and open the template in the editor.
                     <name>SP</name>
                     <logo>spb.png</logo>
                     <seuil>9</seuil>
-                    <idcible>1</idcible>
+                    <idcible>2</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -212,7 +294,7 @@ and open the template in the editor.
                     <name>NATESHOW</name>
                     <logo>nateshow.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>3</idcible>
+                    <idcible>2</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -221,7 +303,7 @@ and open the template in the editor.
                     <name>L'APPACHE HELICOPTA</name>
                     <logo>apache.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>4</idcible>
+                    <idcible>2</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -230,16 +312,7 @@ and open the template in the editor.
                     <name>YANNOUZER</name>
                     <logo>yannou.png</logo>
                     <seuil>50</seuil>
-                    <idcible>5</idcible>
-                    <ratio>2.0</ratio>
-                    <typeratio>gain</typeratio>
-                    <unlocked>false</unlocked>
-                </pallier>
-                <pallier>
-                    <name>CLEMINOU</name>
-                    <logo>yannou.png</logo>
-                    <seuil>50</seuil>
-                    <idcible>6</idcible>
+                    <idcible>2</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
