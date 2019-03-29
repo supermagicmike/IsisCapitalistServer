@@ -105,7 +105,7 @@ and open the template in the editor.
             <name>OG Wrap</name>
             <logo>OGWrap.jpg</logo>
             <cout>8</cout>
-            <croissance>1.08</croissance>
+            <croissance>1.09</croissance>
             <revenu>9</revenu>
             <vitesse>1</vitesse>
             <quantite>0</quantite>
