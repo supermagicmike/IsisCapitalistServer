@@ -24,8 +24,8 @@ and open the template in the editor.
             <logo>HazeCLubSandwich.jpg</logo>
             <cout>1</cout>
             <croissance>1.05</croissance>
-            <revenu>100000</revenu>
-            <vitesse>40</vitesse>
+            <revenu>2</revenu>
+            <vitesse>60</vitesse>
             <quantite>1</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -66,7 +66,7 @@ and open the template in the editor.
             <cout>5</cout>
             <croissance>1.08</croissance>
             <revenu>6</revenu>
-            <vitesse>1</vitesse>
+            <vitesse>600</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -105,9 +105,9 @@ and open the template in the editor.
             <name>OG Wrap</name>
             <logo>OGWrap.jpg</logo>
             <cout>8</cout>
-            <croissance>1.09</croissance>
+            <croissance>1.08</croissance>
             <revenu>9</revenu>
-            <vitesse>1</vitesse>
+            <vitesse>6000</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -148,7 +148,7 @@ and open the template in the editor.
             <cout>10</cout>
             <croissance>1.1</croissance>
             <revenu>19</revenu>
-            <vitesse>30</vitesse>
+            <vitesse>60000</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -189,7 +189,7 @@ and open the template in the editor.
             <cout>15</cout>
             <croissance>1.5</croissance>
             <revenu>24</revenu>
-            <vitesse>20</vitesse>
+            <vitesse>600000</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -230,7 +230,7 @@ and open the template in the editor.
             <cout>50</cout>
             <croissance>1.1</croissance>
             <revenu>10000</revenu>
-            <vitesse>30</vitesse>
+            <vitesse>6000000</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -293,7 +293,7 @@ and open the template in the editor.
                 <pallier>
                     <name>NATESHOW</name>
                     <logo>nateshow.jpg</logo>
-                    <seuil>50</seuil>
+                    <seuil>100</seuil>
                     <idcible>3</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
@@ -311,7 +311,7 @@ and open the template in the editor.
                 <pallier>
                     <name>YANNOUZER</name>
                     <logo>yannou.png</logo>
-                    <seuil>50</seuil>
+                    <seuil>200</seuil>
                     <idcible>5</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
