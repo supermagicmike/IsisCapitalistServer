@@ -25,7 +25,8 @@ and open the template in the editor.
             <cout>1</cout>
             <croissance>1.05</croissance>
             <revenu>2</revenu>
-            <vitesse>6000</vitesse>
+            <vitesse>60
+            </vitesse>
             <quantite>1</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -66,7 +67,7 @@ and open the template in the editor.
             <cout>5</cout>
             <croissance>1.08</croissance>
             <revenu>6</revenu>
-            <vitesse>1</vitesse>
+            <vitesse>600</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -107,7 +108,7 @@ and open the template in the editor.
             <cout>8</cout>
             <croissance>1.08</croissance>
             <revenu>9</revenu>
-            <vitesse>1</vitesse>
+            <vitesse>6000</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -148,7 +149,7 @@ and open the template in the editor.
             <cout>10</cout>
             <croissance>1.1</croissance>
             <revenu>19</revenu>
-            <vitesse>30</vitesse>
+            <vitesse>60000</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -189,7 +190,7 @@ and open the template in the editor.
             <cout>15</cout>
             <croissance>1.5</croissance>
             <revenu>24</revenu>
-            <vitesse>20</vitesse>
+            <vitesse>600000</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -230,7 +231,7 @@ and open the template in the editor.
             <cout>50</cout>
             <croissance>1.1</croissance>
             <revenu>10000</revenu>
-            <vitesse>30</vitesse>
+            <vitesse>6000000</vitesse>
             <quantite>0</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
