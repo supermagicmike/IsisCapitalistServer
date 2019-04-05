@@ -75,7 +75,7 @@ and open the template in the editor.
                     <name>Super_KushSandwich</name>
                     <logo>SKS.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>1</idcible>
+                    <idcible>2</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -84,7 +84,7 @@ and open the template in the editor.
                     <name>Mega_KushSandwich</name>
                     <logo>MKS.jpg</logo>
                     <seuil>100</seuil>
-                    <idcible>1</idcible>
+                    <idcible>2</idcible>
                     <ratio>3.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
@@ -93,7 +93,7 @@ and open the template in the editor.
                     <name>Giga_KushSandwich</name>
                     <logo>GKS.jpg</logo>
                     <seuil>200</seuil>
-                    <idcible>1</idcible>
+                    <idcible>2</idcible>
                     <ratio>4.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -116,7 +116,7 @@ and open the template in the editor.
                     <name>Super_OGWrap</name>
                     <logo>SOW.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>1</idcible>
+                    <idcible>3</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -125,7 +125,7 @@ and open the template in the editor.
                     <name>Mega_OGWrap</name>
                     <logo>MOW.jpg</logo>
                     <seuil>100</seuil>
-                    <idcible>1</idcible>
+                    <idcible>3</idcible>
                     <ratio>3.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
@@ -134,7 +134,7 @@ and open the template in the editor.
                     <name>Giga_OGWrap</name>
                     <logo>GOW.jpg</logo>
                     <seuil>200</seuil>
-                    <idcible>1</idcible>
+                    <idcible>3</idcible>
                     <ratio>4.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -157,7 +157,7 @@ and open the template in the editor.
                     <name>Super_PurpleBurger</name>
                     <logo>SPB.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>2</idcible>
+                    <idcible>4</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -166,7 +166,7 @@ and open the template in the editor.
                     <name>Mega_PurpleBurger</name>
                     <logo>MPB.jpg</logo>
                     <seuil>100</seuil>
-                    <idcible>2</idcible>
+                    <idcible>4</idcible>
                     <ratio>3.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
@@ -175,7 +175,7 @@ and open the template in the editor.
                     <name>Giga_PurpleBurger</name>
                     <logo>GPB.jpg</logo>
                     <seuil>200</seuil>
-                    <idcible>2</idcible>
+                    <idcible>4</idcible>
                     <ratio>4.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -198,7 +198,7 @@ and open the template in the editor.
                     <name>Super_NepalKebab</name>
                     <logo>SNK.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>2</idcible>
+                    <idcible>5</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -207,7 +207,7 @@ and open the template in the editor.
                     <name>Mega_NepalKebab</name>
                     <logo>MNK.jpg</logo>
                     <seuil>100</seuil>
-                    <idcible>2</idcible>
+                    <idcible>5</idcible>
                     <ratio>3.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
@@ -216,7 +216,7 @@ and open the template in the editor.
                     <name>Giga_NepalKebab</name>
                     <logo>GNK.jpg</logo>
                     <seuil>200</seuil>
-                    <idcible>2</idcible>
+                    <idcible>5</idcible>
                     <ratio>4.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -239,7 +239,7 @@ and open the template in the editor.
                     <name>Super_BlueberryTacos</name>
                     <logo>SBT.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>2</idcible>
+                    <idcible>6</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -248,7 +248,7 @@ and open the template in the editor.
                     <name>Mega_BlueberryTacos</name>
                     <logo>MBT.jpg</logo>
                     <seuil>100</seuil>
-                    <idcible>2</idcible>
+                    <idcible>6</idcible>
                     <ratio>3.0</ratio>
                     <typeratio>vitesse</typeratio>
                     <unlocked>false</unlocked>
@@ -257,7 +257,7 @@ and open the template in the editor.
                     <name>Giga_BlueberryTacos</name>
                     <logo>GBT.jpg</logo>
                     <seuil>200</seuil>
-                    <idcible>2</idcible>
+                    <idcible>6</idcible>
                     <ratio>4.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -276,7 +276,7 @@ and open the template in the editor.
                     <name>SP</name>
                     <logo>spb.png</logo>
                     <seuil>9</seuil>
-                    <idcible>2</idcible>
+                    <idcible>1</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -294,7 +294,7 @@ and open the template in the editor.
                     <name>NATESHOW</name>
                     <logo>nateshow.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>2</idcible>
+                    <idcible>3</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -303,7 +303,7 @@ and open the template in the editor.
                     <name>L'APPACHE HELICOPTA</name>
                     <logo>apache.jpg</logo>
                     <seuil>50</seuil>
-                    <idcible>2</idcible>
+                    <idcible>4</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
@@ -312,7 +312,7 @@ and open the template in the editor.
                     <name>YANNOUZER</name>
                     <logo>yannou.png</logo>
                     <seuil>50</seuil>
-                    <idcible>2</idcible>
+                    <idcible>5</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
