@@ -25,8 +25,7 @@ and open the template in the editor.
             <cout>1</cout>
             <croissance>1.05</croissance>
             <revenu>2</revenu>
-            <vitesse>60
-            </vitesse>
+            <vitesse>60</vitesse>
             <quantite>1</quantite>
             <timeleft>0</timeleft>
             <managerUnlocked>false</managerUnlocked>
@@ -275,7 +274,7 @@ and open the template in the editor.
     <managers>
         <pallier>
                     <name>SP</name>
-                    <logo>spb.png</logo>
+                    <logo>SP.jpg</logo>
                     <seuil>9</seuil>
                     <idcible>1</idcible>
                     <ratio>2.0</ratio>
@@ -311,9 +310,18 @@ and open the template in the editor.
                 </pallier>
                 <pallier>
                     <name>YANNOUZER</name>
-                    <logo>yannou.png</logo>
+                    <logo>Yannouzer.jpg</logo>
                     <seuil>200</seuil>
                     <idcible>5</idcible>
+                    <ratio>2.0</ratio>
+                    <typeratio>gain</typeratio>
+                    <unlocked>false</unlocked>
+                </pallier>
+                <pallier>
+                    <name>CLEMINOUX</name>
+                    <logo>Cleminou.jpg</logo>
+                    <seuil>250</seuil>
+                    <idcible>6</idcible>
                     <ratio>2.0</ratio>
                     <typeratio>gain</typeratio>
                     <unlocked>false</unlocked>
